@@ -39,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/StepDef" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -49,7 +49,7 @@
       <command value="mvn compile" />
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Scenario: Sign Up without password">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Sign up with valid Email address">
     <configuration name="Scenario: Sign Up without password" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/SignUp/SignupWithVallidEmail.feature" />
@@ -71,6 +71,8 @@
       </method>
     </configuration>
     <configuration name="Scenario: Sign up with valid Email address" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_261\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/Features/SignUp/SignupWithVallidEmail.feature" />
       <option name="GLUE" value="StepDef" />
@@ -90,6 +92,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Cucumber Java.Scenario: Sign up with valid Email address" />
+      <item itemvalue="Cucumber Java.Scenario: Sign Up without password" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Cucumber Java.Scenario: Sign Up without password" />
